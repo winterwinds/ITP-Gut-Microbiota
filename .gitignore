@@ -1,3 +1,11 @@
+mcc_threshold_curve/*
+!mcc_threshold_curve/.gitkeep
+trained_models/*
+!trained_models/.gitkeep
+
+Final_Model_selection.xlsx
+MCC_Variation.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
